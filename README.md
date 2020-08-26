@@ -4,6 +4,8 @@ SQL-Snippets provides code snippets for creating idempotent SQL. Idempotency is 
 
 A SQL script can be described as idempotent when it can be applied multiple times without changing the result beyond the initial application.
 
+![Demo](sql-snippets.gif)
+
 ## Features
 
 | Command       | Postgres Prefix |
