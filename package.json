@@ -1,11 +1,16 @@
 {
     "name": "sql-snippets",
     "displayName": "sql-snippets",
-    "publisher": "Hugh Loughrey",
+    "publisher": "Latitude55",
+    "author": "hugh.loughrey@gmail.com",
     "description": "Provides you snippets for creating idempotent SQL",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.48.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "    https://github.com/hloughrey/sql-snippets"
     },
     "categories": [
         "Snippets"
