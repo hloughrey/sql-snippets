@@ -4,7 +4,7 @@
     "publisher": "Latitude55",
     "author": "hugh.loughrey@gmail.com",
     "description": "Provides you snippets for creating idempotent SQL",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "engines": {
         "vscode": "^1.48.0"
     },
