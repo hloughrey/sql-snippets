@@ -1,0 +1,21 @@
+{
+    "name": "sql-snippets",
+    "displayName": "sql-snippets",
+    "publisher": "Hugh Loughrey",
+    "description": "Provides you snippets for creating idempotent SQL",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.48.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "sql",
+                "path": "./snippets/psql.json"
+            }
+        ]
+    }
+}
