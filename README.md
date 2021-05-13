@@ -1,4 +1,11 @@
-# sql-snippets README
+<p align="center">
+  <a href="https://www.gatsbyjs.com">
+    <img alt="SQL Snippets Logo" src="./icon.png" width="210" />
+  </a>
+</p>
+<h1 align="center">
+SQL Snippets
+</h1>
 
 SQL-Snippets provides code snippets for creating idempotent SQL. Idempotency is especially important when creating database migration scripts.
 

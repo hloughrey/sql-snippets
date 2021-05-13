@@ -4,7 +4,7 @@
     "publisher": "Latitude55",
     "author": "hugh.loughrey@gmail.com",
     "description": "Provides you snippets for creating idempotent SQL",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "engines": {
         "vscode": "^1.48.0"
     },
@@ -13,6 +13,9 @@
         "url": "    https://github.com/hloughrey/sql-snippets"
     },
     "icon": "icon.png",
+    "scripts": {
+        "publish": "npx vsce publish"
+    },
     "categories": [
         "Snippets"
     ],
